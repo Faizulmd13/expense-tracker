@@ -1,0 +1,20 @@
+[
+  {
+    "date": 1751520481.396358,
+    "amount": 500,
+    "category": "Cash",
+    "description": "Lunch with friends"
+  },
+  {
+    "date": 1751522705.360264,
+    "amount": 330,
+    "category": "Gpay",
+    "description": "Petrol price"
+  },
+  {
+    "date": 1751523748.833402,
+    "amount": 199,
+    "category": "Gpay",
+    "description": "Mom's recharge"
+  }
+]
